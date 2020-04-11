@@ -103,7 +103,7 @@
 
   - **hexo deploy**
 
-    部署网站，部署完成后即可使用**https://你的github用户名.github.io**进行博客访问
+    部署网站，部署完成后即可使用 https://你的github用户名.github.io 进行博客访问
 
 - 本地启动
 
