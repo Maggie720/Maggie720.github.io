@@ -168,4 +168,22 @@
 
   在相关位置增加`<!--more-->`
 
-  
+
+
+## 多端编辑博客
+
+1. 克隆博客仓库，默认分支是hexo
+2. 本地编辑博客内容，有修改则及时git push到远端仓库
+3. npm install 安装依赖
+4. 生成博客静态文件
+
+```bash
+git clone git@github.com:Maggie720/Maggie720.github.io.git
+git 操作
+...
+npm install
+hexo g
+hexo s
+hexo d
+```
+
